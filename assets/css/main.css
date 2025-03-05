@@ -3334,7 +3334,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color:#3A3452; <!--#ffffff Beena edit#6A287E#873262#C25A7C#5C2D7D -->
 		color: #636363;
 		border-radius: 0.25em;
 	}
@@ -3379,7 +3379,7 @@ input, select, textarea {
 		#main .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px #dddddd;
-			color: #636363 !important;
+			color: Black !important; <!-Beena edit,636363-->
 		}
 
 			#main input[type="submit"]:hover,
